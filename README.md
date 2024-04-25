@@ -1,13 +1,13 @@
 # DataER
-DataER 让数据分析简单起来！
+DataER 让数据分析简单起来！  
 DataER is all you need for data analysis (Just joking)
 
 # Function
-工具主要提供数据探索，机器学习，数据可视化等一系列功能，简单易用！零基础使用！
+工具主要提供数据探索，机器学习，数据可视化等一系列功能，简单易用！零基础使用！  
 It provides basic data analysis functions such as statistical information extraction, data visualization, Machine Learning train, test and prediction.
 
 # Usage
-pip install requirements.txt
+pip install requirements.txt  
 python console: streamlit run Home.py
 
 
