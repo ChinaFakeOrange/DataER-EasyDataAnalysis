@@ -15,7 +15,8 @@ python console: streamlit run Home.py
 
 # Language
 
-Original Files Home, MLTrainer, EDA are Chinese versions. ENG tagged is English Version.
+ENG下标的是英文版本，删除名称带有ENG的文件以便使用。
+Original Files Home, MLTrainer, EDA are Chinese versions. ENG tagged is English Version. Please delete all original version for usage.
 
 # Preview
 ![45b7ec8e0b8165a3c5446bdfc4caeaf5_](https://github.com/ChinaFakeOrange/DataER/assets/77980690/20df90fa-9de3-4b0c-ad0f-756725f00dde)
